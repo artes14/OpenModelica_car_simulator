@@ -1,2 +1,1 @@
-# OpenModelica_car_simulator
-OpenModelica vehicle model for car simulator
+# OpenModelica car simulator model files, written in modelica
